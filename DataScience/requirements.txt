@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+requests
+scikit-learn
+joblib
+jupyterlab
+ipykernel
+ipywidgets
+openpyxl
+xlrd
+pyarrow
+beautifulsoup4

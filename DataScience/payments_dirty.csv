@@ -1,0 +1,7 @@
+payment_id,student_id,amount,payment_date,payment_status
+P1001,S001,5000,2024-02-01,Paid
+P1002,S002,R5000,01-02-2024,paid
+P1003,S003,4500,2024/02/02,PAID
+P1004,S004,,2024-02-03,Pending
+P1005,S006,5000,2024-02-04,Piad
+P1006,S006,5000,2024-02-04,Paid

@@ -1,0 +1,13 @@
+import pandas as pd
+import numpy as nm
+try:
+    ds1= pd.read_csv("Students_dirty.csv")
+    ds2= pd.read_csv("payments.csv")
+
+    #Inspect 
+    print(ds1.head())
+    
+except:
+     print("Error")
+finally:
+    print("")
